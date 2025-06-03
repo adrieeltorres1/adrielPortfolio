@@ -44,10 +44,10 @@ const Experiencias = () => {
                             Proatividade
                         </div>
                     </div>
-                    <p>
+                    <p className="text-justify">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad quis ea odio est laborum porro labore neque quasi eius, aliquid itaque. Facere dolore sint asperiores consequuntur perspiciatis accusamus porro dolorum autem
                     </p>
-                    <p>
+                    <p className="text-justify">
                         minus exercitationem reiciendis unde nisi animi natus soluta temporibus sequi voluptate sed commodi, excepturi tempore voluptas quo iusto tenetur?
                     </p>
                 </VerticalTimelineElement>
@@ -87,10 +87,10 @@ const Experiencias = () => {
                             Proatividade
                         </div>
                     </div>
-                    <p>
+                    <p className="text-justify">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad quis ea odio est laborum porro labore neque quasi eius, aliquid itaque. Facere dolore sint asperiores consequuntur perspiciatis accusamus porro dolorum autem
                     </p>
-                    <p>
+                    <p className="text-justify">
                         minus exercitationem reiciendis unde nisi animi natus soluta temporibus sequi voluptate sed commodi, excepturi tempore voluptas quo iusto tenetur?
                     </p>
                 </VerticalTimelineElement>
@@ -130,11 +130,11 @@ const Experiencias = () => {
                             Adaptabilidade
                         </div>
                     </div>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad quis ea odio est laborum porro labore neque quasi eius, aliquid itaque. Facere dolore sint asperiores consequuntur perspiciatis accusamus porro dolorum autem
+                    <p className="text-justify">
+                        Responsável pelo agendamento de consultas e exames médicos e pelo atendimento direto ao paciente. Experiência em fornecer informações precisas sobre procedimentos, preparos e cobertura de convênios, além de gerenciar agendas complexas e garantir a satisfação do cliente no setor de saúde.
                     </p>
-                    <p>
-                        minus exercitationem reiciendis unde nisi animi natus soluta temporibus sequi voluptate sed commodi, excepturi tempore voluptas quo iusto tenetur?
+                    <p className="text-justify">
+                        Habilidade em solucionar dúvidas e conflitos de forma empática e eficiente, visando facilitar o acesso do paciente aos cuidados necessários.
                     </p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
