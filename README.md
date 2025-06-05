@@ -1,6 +1,4 @@
-Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, experiências profissionais e um pouco sobre minha jornada e paixão pela área de tecnologia, especialmente o desenvolvimento de software.
-
-## 📜 Sobre Mim (Resumo da Seção do Portfólio)
+## 📜 Sobre Mim 
 
 No meu portfólio, você encontrará uma seção dedicada onde compartilho um pouco sobre mim:
 * Eu sou o Adriel 😄👍, e gosto de resolver problemas! Me identifico muito com a área de tecnologia, especialmente com o desenvolvimento de software. Sou estudante de Engenharia de Software e estou buscando melhorar a cada dia a minha stack.
