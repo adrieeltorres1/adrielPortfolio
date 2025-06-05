@@ -23,6 +23,6 @@ Este projeto foi construído utilizando as seguintes tecnologias principais:
 * CSS3
 * JavaScript (ES6+)
 
-## 📸 TPrévia visual do meu portfólio
+## 📸 Prévia visual do meu portfólio
 
 ![Prévia do Portfólio](public/img/mockupPortfiolio.png)
