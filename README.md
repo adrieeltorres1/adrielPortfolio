@@ -34,4 +34,4 @@ Este projeto foi construído utilizando as seguintes tecnologias principais:
 
 
 **Prévia visual do meu portfólio:**
-![alt text](mockupPortfiolio.png)
+![Prévia do Portfólio](public/img/mockupPortfiolio.png)
