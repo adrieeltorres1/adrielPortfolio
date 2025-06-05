@@ -11,7 +11,7 @@ const Header = () => {
                         Gosto de <span className="text-verde-spotify font-semibold">aprender</span> e tenho <span className="text-verde-spotify font-semibold">disposição</span> pra isso, sempre em busca de oportunidades onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo na prática.
                     </p>
                     <p className="text-white text-base sm:text-lg lg:text-xl leading-relaxed text-justify px-4 sm:px-6 lg:px-8 my-5">
-                        Pra mim, ser dev significa ir além de simplesmente só escrever código, é buscar constantemente melhorar e ter o <span className="text-verde-spotify font-semibold">compromisso</span> de entregar <span className="text-verde-spotify font-semibold">resultados</span>. Isso significa ter a <span className="text-verde-spotify font-semibold">proatividade</span> de não esperar que as <span className="text-verde-spotify font-semibold">soluções</span> apareçam sozinhas e sim buscar por elas, esse é meu propósito como <span className="text-verde-spotify font-semibold">programador</span>.🚀🎯
+                        Pra mim, ser dev significa ir além de simplesmente só escrever código, é buscar constantemente melhorar e ter o <span className="text-verde-spotify font-semibold">compromisso</span> de entregar <span className="text-verde-spotify font-semibold">resultados</span>. 🚀🎯
                     </p>
                 </div>
             </div>
