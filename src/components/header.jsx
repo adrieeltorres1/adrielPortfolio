@@ -14,14 +14,7 @@ const Header = () => {
                         Pra mim, ser dev significa ir além de simplesmente só escrever código, é buscar constantemente melhorar e ter o <span className="text-verde-spotify font-semibold">compromisso</span> de entregar <span className="text-verde-spotify font-semibold">resultados</span>. Isso significa ter a <span className="text-verde-spotify font-semibold">proatividade</span> de não esperar que as <span className="text-verde-spotify font-semibold">soluções</span> apareçam sozinhas e sim buscar por elas, esse é meu propósito como <span className="text-verde-spotify font-semibold">programador</span>.🚀🎯
                     </p>
                 </div>
-
-                <div className="flex gap-3">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                </div>
-
+                {/* Aqui é para vir as stacks*/}
             </div>
         </>
     );
