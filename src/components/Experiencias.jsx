@@ -6,7 +6,7 @@ import { BsHeadset, BsTools } from "react-icons/bs";
 const Experiencias = () => {
     return (
         <>
-            <h2 className="flex justify-center font-semibold text-4xl text-white">Experiências</h2>
+            <h2 className="flex justify-center font-semibold text-4xl text-white mb-8">Experiências</h2>
             <VerticalTimeline>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
@@ -45,10 +45,10 @@ const Experiencias = () => {
                         </div>
                     </div>
                     <p className="text-justify">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad quis ea odio est laborum porro labore neque quasi eius, aliquid itaque. Facere dolore sint asperiores consequuntur perspiciatis accusamus porro dolorum autem
+                        Como Analista de Suporte Técnico N1, presto suporte tanto a clientes finais quanto a Provedores de Serviço de Internet (ISPs). Minhas responsabilidades técnicas centrais incluem a detecção de incidentes de rede e a realização de troubleshooting eficaz em serviços que apresentam falhas.
                     </p>
                     <p className="text-justify">
-                        minus exercitationem reiciendis unde nisi animi natus soluta temporibus sequi voluptate sed commodi, excepturi tempore voluptas quo iusto tenetur?
+                        Para dar suporte, tenho continuamente aprofundado e aplicado meus conhecimentos em tecnologias de Camada 2 e 3 e quando preciso, também atuo com a  configuração e manutenção de switches.
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -88,10 +88,10 @@ const Experiencias = () => {
                         </div>
                     </div>
                     <p className="text-justify">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad quis ea odio est laborum porro labore neque quasi eius, aliquid itaque. Facere dolore sint asperiores consequuntur perspiciatis accusamus porro dolorum autem
+                        Como Assistente de Suporte Técnico, atuei como um elo fundamental de apoio à equipe técnica, sendo responsável pelo primeiro contato com os clientes e pela abertura de chamados.
                     </p>
                     <p className="text-justify">
-                        minus exercitationem reiciendis unde nisi animi natus soluta temporibus sequi voluptate sed commodi, excepturi tempore voluptas quo iusto tenetur?
+                        No atendimento inicial, meu foco era compreender a fundo a natureza da falha relatada, utilizando uma escuta ativa e fazendo as perguntas certas para assegurar que cada chamado fosse despachado de forma ágil e correta, visando a rápida normalização dos serviços.
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
