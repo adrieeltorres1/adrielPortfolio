@@ -1,5 +1,3 @@
-# Portfólio Pessoal - Adriel Torres 🚀
-
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, experiências profissionais e um pouco sobre minha jornada e paixão pela área de tecnologia, especialmente o desenvolvimento de software.
 
 ## 📜 Sobre Mim (Resumo da Seção do Portfólio)
