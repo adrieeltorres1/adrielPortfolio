@@ -2,15 +2,10 @@
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, experiências profissionais e um pouco sobre minha jornada e paixão pela área de tecnologia, especialmente o desenvolvimento de software.
 
-![Prévia do Portfólio](adicione_o_link_para_um_screenshot_ou_gif_aqui.png)
-*(Sugestão: Adicione um screenshot ou GIF do seu portfólio aqui!)*
-
 ## 📜 Sobre Mim (Resumo da Seção do Portfólio)
 
 No meu portfólio, você encontrará uma seção dedicada onde compartilho um pouco sobre mim:
 * Eu sou o Adriel 😄👍, e gosto de resolver problemas! Me identifico muito com a área de tecnologia, especialmente com o desenvolvimento de software. Sou estudante de Engenharia de Software e estou buscando melhorar a cada dia a minha stack.
-* Gosto de aprender e tenho disposição pra isso, sempre em busca de oportunidades onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo na prática.
-* Pra mim, ser dev significa ir além de simplesmente só escrever código, é buscar constantemente melhorar e ter o compromisso de entregar resultados. Isso significa ter a proatividade de não esperar que as soluções apareçam sozinhas e sim buscar por elas, esse é meu propósito como programador.
 
 ## ✨ Funcionalidades Principais
 
