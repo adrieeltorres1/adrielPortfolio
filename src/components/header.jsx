@@ -9,7 +9,7 @@ const Header = () => {
                 <div className="fw-full max-w-2xl text-center">
                     <h1 className="flex justify-center text-4xl sm:text-4xl lg:text-6xl text-white text-justify font-bold py-3 ">Adriel Torres</h1>
 
-                    <span className="flex justify-center text-verde-spotify text-base sm:text-lg lg:text-xl leading-relaxed max-w-2xl text-justify px-4 sm:px-6 lg:px-8">Desenvolvedor FullStack</span>
+                    <span className="flex justify-center text-verde-spotify text-base sm:text-lg lg:text-xl leading-relaxed max-w-2xl text-justify px-4 sm:px-6 lg:px-8">DESENVOLVEDOR FULLSTACK</span>
 
                     <div className="flex justify-center gap-6 text-2xl text-white mt-5">
                         <a href="https://www.instagram.com/adrieltorres_/" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
@@ -22,7 +22,7 @@ const Header = () => {
                             <BiLogoGmail />
 
                         </a>
-                        <a href="https://wa.me/SEU_NUMERO" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
+                        <a href="https://wa.me/5585982001894?text=Iaee%20Adriel%2C%20tudo%20bem%3F" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
                             <FaWhatsapp />
                         </a>
                     </div>

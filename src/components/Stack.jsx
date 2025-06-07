@@ -22,9 +22,9 @@ const Stack = () => {
                 mb-8">
                 <FaHtml5 className="transition-colors hover:text-laranja-html"/>
                 <FaCss3Alt className="transition-colors hover:text-azul-css"/>
-                <IoLogoJavascript className="transition-colors hover:text-amarelo-javascript"/>
+                <IoLogoJavascript className="transition-color text-amarelo-javascript"/>
                 <SiTailwindcss className="transition-colors hover:text-ciano-tailwind"/>
-                <FaReact className="transition-colors text-azul-react"/>
+                <FaReact className="transition-colors hover:text-azul-react"/>
                 <FaNodeJs className="transition-colors hover:text-verde-node"/>
                 <SiPrisma className="transition-colors hover:text-cinza-prisma"/>
                 <BiLogoPostgresql className="hover:text-azul-postgresql"/>
