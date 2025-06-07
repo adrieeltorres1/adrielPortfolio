@@ -27,20 +27,20 @@ const Experiencias = () => {
                 >
                     <h3 className="vertical-timeline-element-title text-2xl font-semibold">Analista De Suporte N1</h3>
                     <h4 className="vertical-timeline-element-subtitle italic text-[#b3b3bb] text-sm">GIGA MAIS FIBRA</h4>
-                    <div class="flex flex-wrap gap-3 mt-3 font-medium text-black">
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                    <div className="flex flex-wrap gap-3 mt-3 font-medium text-black">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Comunicação
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Pensamento Crítico
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Resolução de Problemas
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Paciência
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Proatividade
                         </div>
                     </div>
@@ -70,20 +70,20 @@ const Experiencias = () => {
                 >
                     <h3 className="vertical-timeline-element-title text-white text-2xl font-semibold">Assistente De Suporte Técnico</h3>
                     <h4 className="vertical-timeline-element-subtitle italic text-[#b3b3bb] text-sm">GIGA MAIS FIBRA</h4>
-                    <div class="flex flex-wrap gap-3 mt-3 font-medium text-black">
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                    <div className="flex flex-wrap gap-3 mt-3 font-medium text-black">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Comunicação
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Empatia
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Resolução de Problemas
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Paciência
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Proatividade
                         </div>
                     </div>
@@ -113,20 +113,20 @@ const Experiencias = () => {
                 >
                     <h3 className="vertical-timeline-element-title text-white text-2xl font-semibold">Call Center</h3>
                     <h4 className="vertical-timeline-element-subtitle italic text-[#b3b3bb] text-sm">NOTREDAME INTERMÉTICA HAPVIDA</h4>
-                    <div class="flex flex-wrap gap-3 mt-3 font-medium text-black">
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                    <div className="flex flex-wrap gap-3 mt-3 font-medium text-black">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Comunicação
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Empatia
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Paciência
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Trabalho em equipe
                         </div>
-                        <div class="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
+                        <div className="bg-verde-spotify rounded-full px-4 py-1 flex justify-center items-center text-sm">
                             Adaptabilidade
                         </div>
                     </div>

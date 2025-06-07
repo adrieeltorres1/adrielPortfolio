@@ -1,3 +1,6 @@
+import { FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
+import { SiGmail } from "react-icons/si";
+
 const Header = () => {
     return (
         <>
@@ -13,6 +16,20 @@ const Header = () => {
                     <p className="text-white text-base sm:text-lg lg:text-xl leading-relaxed text-justify px-4 sm:px-6 lg:px-8 my-5">
                         Pra mim, ser dev significa ir além de simplesmente só escrever código, é buscar constantemente melhorar e ter o <span className="text-verde-spotify font-semibold">compromisso</span> de entregar <span className="text-verde-spotify font-semibold">resultados</span>. 🚀🎯
                     </p>
+                </div>
+                <div className="flex gap-6 text-2xl text-white">
+                    <a href="URL_DO_SEU_INSTAGRAM" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
+                        <FaInstagram />
+                    </a>
+                    <a href="URL_DO_SEU_LINKEDIN" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
+                        <FaLinkedin />
+                    </a>
+                    <a href="mailto:SEU_EMAIL@gmail.com" className="transition-colors hover:text-verde-spotify">
+                        <SiGmail />
+                    </a>
+                    <a href="https://wa.me/SEU_NUMERO" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-verde-spotify">
+                        <FaWhatsapp />
+                    </a>
                 </div>
             </div>
         </>
