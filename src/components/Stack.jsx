@@ -20,16 +20,16 @@ const Stack = () => {
                 sm:gap-6 sm:text-6xl 
                 lg:gap-8 lg:text-6xl 
                 mb-8">
-                <FaHtml5 />
-                <FaCss3Alt />
-                <IoLogoJavascript />
-                <SiTailwindcss />
-                <FaReact />
-                <FaNodeJs />
-                <SiPrisma />
-                <BiLogoPostgresql />
-                <BiLogoMongodb />
-                <FaGitAlt />
+                <FaHtml5 className="transition-colors hover:text-laranja-html"/>
+                <FaCss3Alt className="transition-colors hover:text-azul-css"/>
+                <IoLogoJavascript className="transition-colors hover:text-amarelo-javascript"/>
+                <SiTailwindcss className="transition-colors hover:text-ciano-tailwind"/>
+                <FaReact className="transition-colors text-azul-react"/>
+                <FaNodeJs className="transition-colors hover:text-verde-node"/>
+                <SiPrisma className="transition-colors hover:text-cinza-prisma"/>
+                <BiLogoPostgresql className="hover:text-azul-postgresql"/>
+                <BiLogoMongodb className="transition-colors hover:text-verde-mongodb"/>
+                <FaGitAlt className="transition-colors hover:text-vermelho-git"/>
             </div>
         </>
     );
