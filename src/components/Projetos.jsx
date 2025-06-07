@@ -7,8 +7,8 @@ const Projetos = () => {
         <>
             <h2 className="flex justify-center font-semibold text-4xl text-white mt-8 px-4">Meus projetos</h2>
             <div className="flex justify-center flex-wrap mt-8 mb-8 px-4 gap-4">
-                <div 
-                className="
+                <div
+                    className="
                 projetoCard
                 animate__animated
                 w-full max-w-xs 
@@ -22,11 +22,11 @@ const Projetos = () => {
                 border-b-[3px] 
                 border-verde-spotify
                 " >
-                    <a 
-                    href="https://perfil-links.vercel.app/" 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    className="block p-4">
+                    <a
+                        href="https://perfil-links.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block p-4">
                         <img
                             src={perfilLinks}
                             alt="Linktree"
@@ -42,8 +42,8 @@ const Projetos = () => {
                         </a>
                     </div>
                 </div>
-                  <div 
-                className="
+                {/* <div
+                    className="
                 projetoCard
                 animate__animated
                 w-full max-w-xs 
@@ -57,11 +57,11 @@ const Projetos = () => {
                 border-b-[3px] 
                 border-verde-spotify
                 " >
-                    <a 
-                    href="https://perfil-links.vercel.app/" 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    className="block p-4">
+                    <a
+                        href="https://perfil-links.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block p-4">
                         <img
                             src={perfilLinks}
                             alt="Linktree"
@@ -76,10 +76,8 @@ const Projetos = () => {
                             <GoLinkExternal className="text-verde-spotify text-xl font-bold" />
                         </a>
                     </div>
-                </div>
-              
-            </div>
-              {/* <h2 className='animate__animated animate__pulse animate__infinite text-verde-spotify'>TESTE DE ANIMAÇÃO</h2> */}
+                </div> */}
+            </div>            
         </>
     );
 }

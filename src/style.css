@@ -17,19 +17,8 @@ body {
   border: none;
 }
 
-/* @media (max-width: 767px) {
-  .projetoCard.animate__animated {
-    animation-name: fadeInRight;
-    animation-delay: 0.3s;
-    animation-iteration-count: 0.3s;
-   
-  }
-} */
-
-/* Em src/index.css */
-
-@media (max-width: 767px) {
-  .projetoCard.animate__animated {
+@media (max-width: 767px) and (prefers-reduced-motion: no-preference) {
+  .projetoCard.animate__animated {  
     animation: fadeInRight 0.8s ease-out 0.3s 1 both;
   }
 }
