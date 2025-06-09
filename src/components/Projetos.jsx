@@ -1,7 +1,6 @@
 import perfilLinks from '/img/perfilLinks.png';
 import { GoLinkExternal } from "react-icons/go";
 
-
 const Projetos = () => {
     return (
         <>
