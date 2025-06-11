@@ -71,7 +71,7 @@ const Projetos = () => {
                     </a>
                     <div className="px-4 pb-4 flex justify-between items-center">
                         <p className="text-white text-sm tracking-wide font-semibold">
-                            FAKESTORE
+                            FAKE STORE
                         </p>
                         <a href="https://fake-store-cyan-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
                             <GoLinkExternal className="text-verde-spotify text-xl font-bold" />
